@@ -1,16 +1,10 @@
-# 👋 Hello, I'm Oluwaniyi Akin-Oladapo
 
-Welcome to my GitHub profile!
+Hi, I’m Oluwaniyi Akin-Oladapo 👋
+Seasoned Software Developer & Full-Stack Web/App Developer with 10+ years of experience building scalable web and application systems.
+🎓 B.Sc. in Software Development | Associate Degree in Software & Computer Programming
+💻 Python • JavaScript • PHP • C# • SQL
+🚀 Passionate about clean code, real-world solutions, and mentoring developers.
 
-I’m a **Software Developer** and **Operations Manager** based in Lagos, Nigeria. With over **10 years of programming experience** and **8+ years in civil engineering leadership**, I bridge the gap between technology and infrastructure through smart solutions and efficient systems.
-
-I’m currently pursuing a B.Sc. in Software Development at **Brigham Young University–Idaho**, and I’m passionate about building full-stack applications, teaching others, and leading innovative projects.
-
----
-
-## 🧠 About Me
-
-- 🎓 Currently studying Software Development at BYU–Idaho (Anticipated 2026)
 - 🛠️ Director of Operations at HK Civil Engineering, managing tech-driven construction workflows
 - 👨‍🏫 Backend Programming Instructor at Kadef Academy, mentoring 500+ students
 - ✍️ Author of several best-selling programming books on Amazon Kindle
